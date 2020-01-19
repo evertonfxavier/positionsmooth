@@ -19,3 +19,32 @@ header {
 	top: 40%;
 	width: 100%;
 }
+
+nav {
+	position: sticky;
+	top: 0;
+}
+
+
+
+
+
+#box1, #box2, #box3, #box4 {
+	height: 100vh;
+}
+
+#box1 {
+	background-color: #1dd1a1;
+}
+
+#box2 {
+	background-color: #feca57;
+}
+
+#box3 {
+	background-color: #54a0ff;
+}
+
+#box4 {
+	background-color: #576574;
+}
